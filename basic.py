@@ -4,6 +4,8 @@ from genie.libs.ops.bgp.bgp import Bgp
 import argparse
 import json
 
+#with help from 
+#https://github.com/clay584/genie_collection/blob/master/clay584/genie/plugins/modules/learn_genie.py
 
 feature = 'bgp'
 
